@@ -1,3 +1,6 @@
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_beginning/custom_icons.dart';
@@ -9,7 +12,9 @@ Color green = Colors.green;
 Color blue = Colors.blue;
 Color grey900 = Colors.grey.shade900;
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(TutorialApp());
 }
 
