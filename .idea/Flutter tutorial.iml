@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_test_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_test_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_test_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_custom_child_layout/flutter_custom_child_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_custom_child_layout/flutter_custom_child_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_custom_child_layout/flutter_custom_child_layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layout/flutter_layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layout/flutter_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layout/flutter_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_navigation/flutter_navigation_menu/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_navigation/flutter_navigation_menu/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_navigation/flutter_navigation_menu/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_first_project/flutter_project_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_first_project/flutter_project_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_first_project/flutter_project_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_elementary/flutter_beginning/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_elementary/flutter_beginning/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_elementary/flutter_beginning/.dart_tool" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
